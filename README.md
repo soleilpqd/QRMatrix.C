@@ -53,7 +53,7 @@ QrmBoardDestroy(&board);
 
 For more detail please check [Detail Manual](DOCS/index.md).
 
-You can find some examples project inside folder [Examples](Examples). The description about those examples is [here](DOCS/examples.md).
+You can find some examples project inside folder [Examples](Examples). The description about those examples is [here](DOCS/examples.md). Available examples: SVG, PNG, QT, iOS, MacOS, Android, Flutter.
 
 ## Reference
 
